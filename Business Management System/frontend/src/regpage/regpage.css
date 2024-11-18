@@ -1,0 +1,31 @@
+.reg-cards{
+    border: 5px solid #000;
+    border-radius: 20px;
+    
+}
+
+.form-label{
+    font-weight: bold;
+}
+
+.modal-footer {
+    display: block !important;
+
+}
+
+.modal-btn{
+    width: 100% !important;
+}
+
+.link{
+    border-bottom: none !important;
+    color: #000;
+}
+
+.green-text {
+    color: green;
+}
+
+
+
+
