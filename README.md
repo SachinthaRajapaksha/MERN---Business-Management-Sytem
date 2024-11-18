@@ -2,7 +2,7 @@
 
 ## Description
 
-**Sunrich Paradise** is a comprehensive web-based business management system designed to streamline operations for buying and selling organic food products. It automates key business processes, improving efficiency and reducing manual effort. 
+**Sunrich Paradise** is a comprehensive web-based business management system designed to streamline operations for buying and selling organic food products. We developed this as a part of our 2nd year 2nd semester university project for ITP module. It automates key business processes, improving efficiency and reducing manual effort. 
 
 With Sunrich Paradise, staff can efficiently manage their daily tasks through a user-friendly and interactive platform. By embracing automation and digitalization, the system addresses challenges in traditional business management systems, leading to significant improvements in trading operations.
 
@@ -57,6 +57,7 @@ I developed the **Financial Management System**, a critical part of Sunrich Para
 - Tracking and recording all company financial transactions.
 - Generating reports for expenses, revenues, and profit margins.
 - Creating and managing budgets to ensure financial stability.
+- Calculating Employee Salaries and notify them with emails.
 - Automation of calculations to minimize errors and save time.
 
 This module ensures transparency and accuracy in financial handling, addressing a major aspect of business management.
@@ -65,13 +66,7 @@ This module ensures transparency and accuracy in financial handling, addressing 
 
 ## Screenshots 📸
 
-To add screenshots of the system:
 
-1. Save your screenshots in a directory, e.g., `screenshots/`.
-2. Use the following markdown syntax to include them:
-
-   ```markdown
-   ### Dashboard
    ![Dashboard](screenshots/dashboard.png)
 
    ### Financial Management
