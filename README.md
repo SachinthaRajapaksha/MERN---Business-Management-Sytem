@@ -67,7 +67,11 @@ This module ensures transparency and accuracy in financial handling, addressing 
 ## Screenshots 📸 for the Finiacial Management System that I created
 
 
-   ![Dashboard](screenshots/dashboard.png)
+   ![Dashboard](https://github.com/SachinthaRajapaksha/MERN---Business-Management-Sytem/blob/main/Financial%20Manangement%20images/Picture1.jpg)
+   ![Dashboard](https://github.com/SachinthaRajapaksha/MERN---Business-Management-Sytem/blob/main/Financial%20Manangement%20images/Picture2.jpg)
+   ![Dashboard](https://github.com/SachinthaRajapaksha/MERN---Business-Management-Sytem/blob/main/Financial%20Manangement%20images/Picture3.jpg)
+   ![Dashboard](https://github.com/SachinthaRajapaksha/MERN---Business-Management-Sytem/blob/main/Financial%20Manangement%20images/Picture4.jpg)
+   ![Dashboard](https://github.com/SachinthaRajapaksha/MERN---Business-Management-Sytem/blob/main/Financial%20Manangement%20images/Picture5.jpg)
+   ![Dashboard](https://github.com/SachinthaRajapaksha/MERN---Business-Management-Sytem/blob/main/Financial%20Manangement%20images/Picture6.jpg)
+   ![Dashboard](https://github.com/SachinthaRajapaksha/MERN---Business-Management-Sytem/blob/main/Financial%20Manangement%20images/Picture7.jpg)
 
-   ### Financial Management
-   ![Financial Management](screenshots/financial_management.png)
