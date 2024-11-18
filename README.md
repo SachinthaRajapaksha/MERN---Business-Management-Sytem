@@ -64,7 +64,7 @@ This module ensures transparency and accuracy in financial handling, addressing 
 
 ---
 
-## Screenshots 📸 for the Finiacial Management System that I created
+## UI 📸 of the Finiacial Management System that I created
 
 
    ![Dashboard](https://github.com/SachinthaRajapaksha/MERN---Business-Management-Sytem/blob/main/Financial%20Manangement%20images/Picture1.jpg)
