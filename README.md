@@ -64,7 +64,7 @@ This module ensures transparency and accuracy in financial handling, addressing 
 
 ---
 
-## Screenshots 📸
+## Screenshots 📸 for the Finiacial Management System that I created
 
 
    ![Dashboard](screenshots/dashboard.png)
